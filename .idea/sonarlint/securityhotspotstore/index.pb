@@ -1,3 +1,21 @@
 
 d
 4app/src/main/java/com/example/ustore/MainActivity.kt,0\4\04bdb79804be277bbde05ab8b4b2acf0a9a2b262
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+b
+2app/src/main/java/Adapter/CustomProductsAdapter.kt,8\c\8c00850201c1589294ca4d842dd8e569140fc58e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+f
+6app/src/main/java/Utility/ApiService/ProductService.kt,3\1\31c2087f6248f2d1be41f1f6a01dbd9f9bc8a01b
+V
+&app/src/main/java/Model/ProductItem.kt,8\c\8c69c9880198e9d8ea28cb4b9eb9d02114fab2ac
+\
+,app/src/main/java/Client/RetrofitInstance.kt,6\d\6d87694211c503ee9fd01385cd915d60c2993728
+g
+7app/src/test/java/com/example/ustore/ExampleUnitTest.kt,4\4\443b518f1691cc11eeb2479d72d9ebe2815a8e32
+v
+Fapp/src/androidTest/java/com/example/ustore/ExampleInstrumentedTest.kt,3\8\38ac61994904f5c9f3f8055dd16906297f94f357

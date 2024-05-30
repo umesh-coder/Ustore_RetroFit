@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="#E3F2FD"
+        android:text="UStore Products"
+        android:textFontWeight="1"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
     <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:listitem="@layout/item_product"
+        android:id="@+id/productListRecyclerView"
         />
 
 
-    
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
